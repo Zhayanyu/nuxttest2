@@ -3,3 +3,4 @@ type = "javascript"
 account_id = "a934806782@outlook.com"
 route = "https://zhayanyu.com/*"
 workers_dev = false
+pages_build_output_dir = "dist"
